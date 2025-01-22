@@ -215,5 +215,6 @@
 	<classpathentry kind="lib" path="C:/Users/Priyanka/.katalon/packages/KSE-10.0.1/configuration/plugin/install/242920/1.0.5/katalon-studio-applitools-plugin (1).jar"/>
 	<classpathentry kind="lib" path="C:/Users/Priyanka/.katalon/packages/KSE-10.0.1/configuration/org.eclipse.osgi/34/0/.cp/resources/basic-report/katalon-studio-report-plugin.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
