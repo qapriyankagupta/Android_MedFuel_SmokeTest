@@ -29,4 +29,14 @@
       <initValue>'https://katalon-demo-cura.herokuapp.com/'</initValue>
       <name>G_SiteURL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'pgupta@birdzi.com'</initValue>
+      <name>USERNAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Shiv123!@#'</initValue>
+      <name>PASSWORD</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

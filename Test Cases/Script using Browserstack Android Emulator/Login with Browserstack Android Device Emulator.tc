@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with Browserstack Android Device Emulator</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3d28554-7b1f-4c83-8a84-a142a314741e</testCaseGuid>
+</TestCaseEntity>

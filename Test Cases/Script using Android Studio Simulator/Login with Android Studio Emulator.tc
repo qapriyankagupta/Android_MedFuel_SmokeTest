@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login with Android Studio Emulator</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>914172da-5da8-4fdf-9dc0-200b06b677a4</testCaseGuid>
+</TestCaseEntity>
